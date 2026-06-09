@@ -1,6 +1,8 @@
 # qa-vk-course
 
 Этот репозиторий содержит мои практические задания с курса по QA от VK:
+https://education.vk.company/program/ruchnoe-testirovanie
+https://education.vk.company/
 
 - Написание тест-кейсов с применением техник тест-дизайна
 - API тестирование (Postman, Swagger)
